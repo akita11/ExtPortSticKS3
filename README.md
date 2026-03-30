@@ -1,6 +1,10 @@
 # ExtPort For StickS3
 
-<img src="https://github.com/akita11/ExtPortStickS3/blob/main/ExtPortStickS3.jpg" width="240px">
+<img src="https://github.com/akita11/ExtPortStickS3/blob/main/ExtPortStickS3-1.jpg" width="240px">
+
+<img src="https://github.com/akita11/ExtPortStickS3/blob/main/ExtPortStickS3-2.jpg" width="240px">
+
+<img src="https://github.com/akita11/ExtPortStickS3/blob/main/ExtPortStickS3-3.jpg" width="240px">
 
 [M5Stack社のM5StickS3](https://www.switch-science.com/products/10921)の丈夫コネクタに接続して最大4つのGroveコネクタを増設し、複数のGrove接続のUNIT等を接続することができます。
 
